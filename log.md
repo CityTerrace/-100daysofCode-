@@ -1,4 +1,4 @@
-#100DaysofCode
+#100 Days of Code - LOG
 <h2>Day 1 January 19, 2017</h2>
 <b>Today's Progress:</b> 
 Starting from the basics to gain coding discipline.
