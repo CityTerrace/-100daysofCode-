@@ -7,3 +7,11 @@ Worked on the HTML5/CSS section on FreeCodeCamp from the beggining, ended my ses
 <b>Thoughts:</b>While simple, still a much needed review.
 
 <b>Link(s) to work</b><a href="https://www.freecodecamp.com/challenges/link-to-external-pages-with-anchor-elements">"Link to external pages with anchor elements"</a>
+
+<h2>Day 2 January 20, 2017</h2>
+<b>Today's Progress:</b>
+Did a bit more of the html/css section on FreeCodeCamp.
+
+<b>Thoughts:</b> I had forgotten how to add a button using html, wow! haha.
+
+<b>Link(s) to work</b><a href="https://www.freecodecamp.com/challenges/nest-many-elements-within-a-single-div-element"> Nest many elements within a single div element. </a>
