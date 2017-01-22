@@ -15,3 +15,11 @@ Did a bit more of the html/css section on FreeCodeCamp.
 <b>Thoughts:</b> I had forgotten how to add a button using html, wow! haha.
 
 <b>Link(s) to work</b><a href="https://www.freecodecamp.com/challenges/nest-many-elements-within-a-single-div-element"> Nest many elements within a single div element. </a>
+
+<h2>Day 3 January 21, 2017</h2>
+<b>Today's Progress:</b>
+Finished the html/css section on FreeCodeCamp.
+
+<b>Thoughts:</b> Need to start getting into the routine of using a whiteboard to practice writting code, and not just copy/pasting to run through it.
+
+<b>Link(s) to work</b><a href="https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors"> Use-rgb-to-mix-colors. </a>
