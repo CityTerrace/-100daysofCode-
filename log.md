@@ -32,3 +32,24 @@ Got half-way through the <a href="https://www.freecodecamp.com/map-aside#nested-
 There is no formation without repetition. I'm sure I'm going to come back to these exercises once I start building some websites.
 
 <b>Link(s) to work</b><a href="https://www.freecodecamp.com/challenges/style-text-inputs-as-form-controls"> Style Text Inputs as Form Controls</a>
+
+<h2>Day 5 January 23, 2017</h2>
+<b>Today's Progress:</b>
+Watched Udacity's Ai livestream with lots of enthusiasm and did some more Bootstrap on FreeCodeCamp.
+<a href="https://t.co/Ua13ASMoiR"> Udacity's Ai Livestream </a>
+
+<b>Thoughts:</b> 
+I'm going to adopt the phrase "Unknown Unknowns" from now on. I now that Ai exist, obviously, but I had no idea about any of it really. This world is taking me for a ride at the moment.
+
+<b>Link(s) to work</b> 
+<a href="https://t.co/Ua13ASMoiR"> Udacity's live stream</a>
+
+<h2>Day 6 January 24, 2017</h2>
+<b>Today's Progress:</b>
+Finished <a href="https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap">Responsive Design with Bootstrap</a> today.
+
+<b>Thoughts:</b> 
+It's been refreshing to go over these lessons slowly to remember how it all works.
+
+<b>Link(s) to work</b> 
+<a href="https://www.freecodecamp.com/challenges/use-comments-to-clarify-code">Last lesson on the Bootstrap category</a>
