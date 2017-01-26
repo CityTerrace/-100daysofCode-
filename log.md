@@ -53,3 +53,13 @@ It's been refreshing to go over these lessons slowly to remember how it all work
 
 <b>Link(s) to work</b> 
 <a href="https://www.freecodecamp.com/challenges/use-comments-to-clarify-code">Last lesson on the Bootstrap category</a>
+
+<h2>Day 7 January 25, 2017</h2>
+<b>Today's Progress:</b>
+Finished <a href="https://www.freecodecamp.com/map-aside#nested-collapsejQuery">Jquery</a> today.
+
+<b>Thoughts:</b> 
+It's simple right now, but the internet makes sense.
+
+<b>Link(s) to work</b> 
+<a href="https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page"> Use jQuery to Modify the Entire Page Complete</a>
