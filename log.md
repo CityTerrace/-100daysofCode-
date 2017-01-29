@@ -63,3 +63,14 @@ It's simple right now, but the internet makes sense.
 
 <b>Link(s) to work</b> 
 <a href="https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page"> Use jQuery to Modify the Entire Page Complete</a>
+
+<h2>Day 8 January 28, 2017</h2>
+<b>Today's Progress:</b>
+I'm not counting yesterday because all I did was watch 2 hours of <a href="https://www.youtube.com/watch?v=Bv_5Zv5c-Ts"> "The weird parts of Javascript" </a>.
+Today, I finished the tribute project on FreeCodeCamp. 
+
+<b>Thoughts:</b> 
+This was fun. It's nice actually seeing a product than I can produce.
+
+<b>Link(s) to work</b> 
+<a href="http://codepen.io/CTY-TERR/full/rjYqvx/"> My tribute to Tosin Abasi from Animals as Leaders</a>
